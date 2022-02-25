@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ref\ИнчВСантиметър.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\bin\Debug\net5.0\ИнчВСантиметър.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ref\ИнчВСантиметър.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИнчВСантиметър\obj\Debug\net5.0\ИнчВСантиметър.genruntimeconfig.cache

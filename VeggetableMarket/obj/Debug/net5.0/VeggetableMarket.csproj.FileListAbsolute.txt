@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\ref\VeggetableMarket.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\bin\Debug\net5.0\VeggetableMarket.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\ref\VeggetableMarket.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\VeggetableMarket\obj\Debug\net5.0\VeggetableMarket.genruntimeconfig.cache

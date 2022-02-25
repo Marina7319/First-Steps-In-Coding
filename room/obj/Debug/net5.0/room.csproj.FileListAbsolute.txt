@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\ref\room.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\bin\Debug\net5.0\room.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\ref\room.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\room\obj\Debug\net5.0\room.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\ref\GreetingsWithName.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\bin\Debug\net5.0\GreetingsWithName.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\ref\GreetingsWithName.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\GreetingsWithName\obj\Debug\net5.0\GreetingsWithName.csproj.AssemblyReference.cache

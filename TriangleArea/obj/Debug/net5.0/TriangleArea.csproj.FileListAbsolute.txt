@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\ref\TriangleArea.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\bin\Debug\net5.0\TriangleArea.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\ref\TriangleArea.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\TriangleArea\obj\Debug\net5.0\TriangleArea.genruntimeconfig.cache

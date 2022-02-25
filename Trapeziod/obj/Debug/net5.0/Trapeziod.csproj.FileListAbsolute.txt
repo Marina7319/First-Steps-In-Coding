@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\ref\Trapeziod.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\bin\Debug\net5.0\Trapeziod.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\ref\Trapeziod.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Trapeziod\obj\Debug\net5.0\Trapeziod.csproj.AssemblyReference.cache

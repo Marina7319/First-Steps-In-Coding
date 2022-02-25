@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\ref\CToF.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\bin\Debug\net5.0\CToF.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\ref\CToF.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\CToF\obj\Debug\net5.0\CToF.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\ref\House Painting.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\bin\Debug\net5.0\House Painting.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\ref\House Painting.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\House Painting\obj\Debug\net5.0\House Painting.genruntimeconfig.cache

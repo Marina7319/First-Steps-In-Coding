@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ref\ИзготвянеНаПроекти.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\bin\Debug\net5.0\ИзготвянеНаПроекти.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ref\ИзготвянеНаПроекти.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\ИзготвянеНаПроекти\obj\Debug\net5.0\ИзготвянеНаПроекти.genruntimeconfig.cache

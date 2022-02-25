@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\ref\Fishland.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\bin\Debug\net5.0\Fishland.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\ref\Fishland.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Fishland\obj\Debug\net5.0\Fishland.genruntimeconfig.cache

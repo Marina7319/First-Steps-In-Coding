@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\ref\Озеленяване.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\bin\Debug\net5.0\Озеленяване.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\ref\Озеленяване.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.genruntimeconfig.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Озеленяване\obj\Debug\net5.0\Озеленяване.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.exe
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.deps.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.runtimeconfig.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\ref\Squareroot.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\bin\Debug\net5.0\Squareroot.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\ref\Squareroot.dll
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.pdb
+C:\Users\Marina\source\repos\ПървиСтъпкиВпрограмирането\Squareroot\obj\Debug\net5.0\Squareroot.genruntimeconfig.cache
